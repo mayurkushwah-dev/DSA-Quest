@@ -8,7 +8,7 @@ Every topic is a level.
 Every problem is a mission.
 Every solution earns experience.
 
-Current Rank: Apprentice Programmer
+Current Rank: Algorithm Explorer
 
 Language: C++
 
@@ -39,4 +39,28 @@ Language: C++
 
 🟢 Level 09 - Pointer Labyrinth
 
-🟢 Level 10 - LeetCode Arena
+🟢 Level 10 - Recursion Abyss
+
+🟢 Level 11 - LeetCode Arena
+
+---
+
+## Rank Progression
+
+[✓] Novice
+[✓] Apprentice Programmer
+[ ] Algorithm Explorer
+[ ] Code Knight
+[ ] DSA Warrior
+[ ] Grandmaster
+
+---
+
+## Boss Battles Defeated
+
+- Kadane's Algorithm
+- Two Sum
+- Valid Parentheses
+
+---
+
