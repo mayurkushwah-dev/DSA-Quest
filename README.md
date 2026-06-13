@@ -37,7 +37,7 @@ Language: C++
 
 ◆ Level 08 - Complexity Citadel
 
-vLevel 09 - Pointer Labyrinth
+◆ vLevel 09 - Pointer Labyrinth
 
 ◆ Level 10 - Recursion Abyss
 
@@ -51,7 +51,7 @@ vLevel 09 - Pointer Labyrinth
 
 [✓] Apprentice Programmer
 
-[ ] Algorithm Explorer
+[✓] Algorithm Explorer
 
 [ ] Code Knight
 
