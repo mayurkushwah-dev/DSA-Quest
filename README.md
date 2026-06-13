@@ -16,42 +16,47 @@ Language: C++
 
 ## Completed Levels
 
-🟢 Level 01 - The Beginning
+◆ Level 01 - The Beginning
 - Variables
 - Datatypes
 - Operators
 
-🟢 Level 02 - Control Realm
+◆ Level 02 - Control Realm
 - Conditionals
 - Loops
 
-🟢 Level 03 - Pattern Mastery
+◆ Level 03 - Pattern Mastery
 
-🟢 Level 04 - Function Forge
+◆ Level 04 - Function Forge
 
-🟢 Level 05 - Binary Kingdom
+◆ Level 05 - Binary Kingdom
 
-🟢 Level 06 - Array Valley
+◆ Level 06 - Array Valley
 
-🟢 Level 07 - STL Arsenal
+◆ Level 07 - STL Arsenal
 
-🟢 Level 08 - Complexity Citadel
+◆ Level 08 - Complexity Citadel
 
-🟢 Level 09 - Pointer Labyrinth
+vLevel 09 - Pointer Labyrinth
 
-🟢 Level 10 - Recursion Abyss
+◆ Level 10 - Recursion Abyss
 
-🟢 Level 11 - LeetCode Arena
+◆ Level 11 - LeetCode Arena
 
 ---
 
 ## Rank Progression
 
 [✓] Novice
+
 [✓] Apprentice Programmer
+
 [ ] Algorithm Explorer
+
 [ ] Code Knight
+
 [ ] DSA Warrior
+
 [ ] Grandmaster
 
 ---
